@@ -14,6 +14,7 @@ Steps:
 ```bash
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
 npm install
+npm install react-router-dom
 npm start
 ```
 
