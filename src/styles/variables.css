@@ -1,0 +1,18 @@
+/* Variables globals (colors, spacing) — paleta blau + groc sobre fons blanc. */
+:root {
+  --bg: #ffffff;
+  --surface: rgba(11, 27, 43, 0.03);
+  --surface-strong: rgba(11, 27, 43, 0.06);
+  --text: #0b1b2b;
+  --muted: rgba(11, 27, 43, 0.70);
+  --border: rgba(11, 27, 43, 0.14);
+
+  --accent: #1e66ff;   /* blau */
+  --accent-2: #ffd000; /* groc */
+
+  --shadow: 0 16px 40px rgba(11, 27, 43, 0.10);
+  --radius: 18px;
+  --radius-lg: 28px;
+
+  --max: 1100px;
+}
